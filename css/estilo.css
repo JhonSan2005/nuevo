@@ -1,0 +1,31 @@
+.inicio {
+    background-color: #ddd;
+    width: 100vw;
+    height: 100vh;
+}
+
+.seccion__inicial {
+    display: flex;
+    gap: 20px;
+    width: 90%;
+    height: 90%;
+    flex-direction: column-reverse;
+}
+
+.cuadro {
+    width: 100px;
+    height: 100px;
+    border: 1px solid black;
+}
+
+.bg-red {
+    background-color: yellow;
+}
+
+.bg-blue {
+    background-color: blue;
+}
+
+.bg-green {
+    background-color: green;
+}
